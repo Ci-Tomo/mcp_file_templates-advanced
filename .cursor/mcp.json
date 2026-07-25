@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "mcp-book-template-advanced": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "/Users/togawa/Desktop/mcp_book_template_advanced",
+        "fastmcp",
+        "run",
+        "server.py:mcp"
+      ]
+    }
+  }
+}
